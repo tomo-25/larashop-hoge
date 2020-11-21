@@ -1,4 +1,4 @@
-@component('mail::message')
+<!----- @component('mail::message')
 
 {{ $user }}様<br>
 この度はLarashopでのご購入ありがとうございます。<br>
@@ -20,4 +20,4 @@
 
 <br>
 {{ config('app.name') }}
-@endcomponent
+@endcomponent ------>
